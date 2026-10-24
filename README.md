@@ -1,2 +1,1 @@
-# SIM-MAHASISWA
-web semantik
+# WEB-SEMANTIK

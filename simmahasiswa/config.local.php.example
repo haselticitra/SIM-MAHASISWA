@@ -1,0 +1,13 @@
+<?php
+
+return [
+    // Nilai bawaan XAMPP:
+    'host' => 'localhost',
+    'username' => 'root',
+    'password' => '',
+    'database' => 'sim_mahasiswa',
+    'port' => 3306,
+
+    // Untuk shared hosting, ganti dengan kredensial pada panel hosting.
+    // Jangan commit file config.local.php.
+];
